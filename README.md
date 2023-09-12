@@ -11,3 +11,5 @@
 [Bruno Magalhães](https://github.com/BMFMagalhaes)
 
 [Pedro Pereira](https://github.com/Peidolas)
+
+## Final grade - 18
